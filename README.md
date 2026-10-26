@@ -1,1 +1,1 @@
-# Moved: See https://codeberg.org/ced4rtree/matrix.h
+# Moved: See https://git.cebar.xyz/ced4rtree/matrix.h
